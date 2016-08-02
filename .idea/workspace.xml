@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3691315a-fa60-41b5-a7a7-534a0b76633f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Assignments/AssignmentsList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/Assignments/example/AssignmentsList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/test/Assignments/example/AssignmentsListTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/src/example/AssignmentsList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/src/example/AssignmentsList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/example/AssignmentsListTest.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example/AssignmentsList.class" afterPath="$PROJECT_DIR$/src/example/AssignmentsList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example/AssignmentsList.java" afterPath="$PROJECT_DIR$/src/example/AssignmentsList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/example/AssignmentsListTest.java" afterPath="$PROJECT_DIR$/test/example/AssignmentsListTest.java" />
     </list>
@@ -27,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AssignmentsList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AssignmentsList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/example/AssignmentsList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+            <state relative-caret-position="268">
+              <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#837#838#0" expanded="true" />
@@ -41,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AssignmentsListTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AssignmentsListTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/example/AssignmentsListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="180">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -605,34 +609,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 16h 33m 01s.xml">
+    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 17h 32m 24s.xml">
       <configuration name="AssignmentsListTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 16h 33m 20s.xml">
+    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 17h 32m 30s.xml">
       <configuration name="AssignmentsListTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 16h 33m 27s.xml">
+    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 17h 35m 09s.xml">
       <configuration name="AssignmentsListTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 16h 35m 27s.xml">
+    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 17h 38m 02s.xml">
       <configuration name="AssignmentsListTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 16h 40m 50s.xml">
+    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 17h 38m 22s.xml">
       <configuration name="AssignmentsListTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 16h 40m 58s.xml">
+    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 17h 39m 23s.xml">
       <configuration name="AssignmentsListTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 16h 41m 01s.xml">
+    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 17h 40m 19s.xml">
       <configuration name="AssignmentsListTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 16h 42m 28s.xml">
+    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 17h 40m 59s.xml">
       <configuration name="AssignmentsListTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 16h 48m 41s.xml">
+    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 17h 42m 17s.xml">
       <configuration name="AssignmentsListTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 16h 49m 34s.xml">
+    <history-entry file="AssignmentsListTest_(1) - 2016.08.02 at 17h 47m 50s.xml">
       <configuration name="AssignmentsListTest (1)" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -642,12 +646,12 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.453125" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.440625" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.515625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.521875" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.484375" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.478125" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -727,24 +731,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/example/AssignmentsListTest.java">
+    <entry file="file://$PROJECT_DIR$/src/src/example/AssignmentsList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/example/AssignmentsList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        <state relative-caret-position="268">
+          <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#837#838#0" expanded="true" />
             <element signature="e#863#864#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/example/AssignmentsListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

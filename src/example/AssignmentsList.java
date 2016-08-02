@@ -46,7 +46,15 @@ public class AssignmentsList {
         return output;
     }
 
-    public void fourthAssignment(String[] args){
+    public static String fourthAssignment(int num){
+
+        String output = "";
+        String lines = "";
+        for(int j = 0; j<num; j++){
+            output = output + "*";
+            lines = lines + output + "\n";
+        }
+        return lines;
     }
 
     public void fifthAssignment(String[] args){

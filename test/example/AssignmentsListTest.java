@@ -20,13 +20,20 @@ public class AssignmentsListTest {
         assertEquals(list2.secondAssignment(30), "******************************");
     }
 
-    @Test public void thirdAssignment() throws Exception{
+    @Test
+    public void thirdAssignment() throws Exception{
         AssignmentsList list3 = new AssignmentsList();
         assertEquals(list3.thirdAssignment(2), "*\n*\n");
         assertEquals(list3.thirdAssignment(3), "*\n*\n*\n");
         assertEquals(list3.thirdAssignment(30), "*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n");
 
 
+    }
+
+    @Test
+    public void fourthAssignment() throws Exception{
+        AssignmentsList list4 = new AssignmentsList();
+        assertEquals(list4.fourthAssignment(4), "*\n**\n***\n****\n");
     }
 
 }
