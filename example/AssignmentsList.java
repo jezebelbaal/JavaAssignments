@@ -62,6 +62,4 @@ public class AssignmentsList {
         return lines;
     }
 
-    public void fifthAssignment(String[] args){
-    }
 }
