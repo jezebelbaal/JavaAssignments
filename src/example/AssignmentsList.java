@@ -22,6 +22,11 @@ public class AssignmentsList {
         userInput = scannerInput.next();
         System.out.println(thirdAssignment(Integer.parseInt(userInput)));
 
+        System.out.println("\nAssignment four:");
+        System.out.println("Please, input a number.");
+        userInput = scannerInput.next();
+        System.out.println(fourthAssignment(Integer.parseInt(userInput)));
+
     }
 
     public static String firstAssignment(){
@@ -57,6 +62,4 @@ public class AssignmentsList {
         return lines;
     }
 
-    public void fifthAssignment(String[] args){
-    }
 }

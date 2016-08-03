@@ -26,8 +26,6 @@ public class AssignmentsListTest {
         assertEquals(list3.thirdAssignment(2), "*\n*\n");
         assertEquals(list3.thirdAssignment(3), "*\n*\n*\n");
         assertEquals(list3.thirdAssignment(30), "*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n");
-
-
     }
 
     @Test
