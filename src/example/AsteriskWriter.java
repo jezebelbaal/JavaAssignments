@@ -3,7 +3,7 @@
  */
 import java.util.Scanner;
 
-public class AssignmentsList {
+public class AsteriskWriter {
 
     public static void main (String[] args){
 
