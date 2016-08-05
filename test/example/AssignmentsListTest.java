@@ -1,9 +1,7 @@
-import static org.junit.Assert.*;
 import org.junit.Test;
 
-/**
- * Created by jutsch on 7/29/16.
- */
+import static org.junit.Assert.assertEquals;
+
 public class AssignmentsListTest {
 
     @Test
