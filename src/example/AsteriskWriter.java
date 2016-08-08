@@ -9,31 +9,31 @@ public class AsteriskWriter {
 
         System.out.println("Start!");
         System.out.println("\nAssignment one:");
-        System.out.println(firstAssignment());
+        System.out.println(printSingleAsterisk());
         System.out.println("\nAssignment two:");
         System.out.println("Please, input a number.");
 
         Scanner scannerInput = new Scanner( System.in );
         String userInput = scannerInput.next();
-        System.out.println(secondAssignment(Integer.parseInt(userInput)));
+        System.out.println(printAsteriksLine(Integer.parseInt(userInput)));
 
         System.out.println("\nAssignment three:");
         System.out.println("Please, input a number.");
         userInput = scannerInput.next();
-        System.out.println(thirdAssignment(Integer.parseInt(userInput)));
+        System.out.println(printAsterisksColumn(Integer.parseInt(userInput)));
 
         System.out.println("\nAssignment four:");
         System.out.println("Please, input a number.");
         userInput = scannerInput.next();
-        System.out.println(fourthAssignment(Integer.parseInt(userInput)));
+        System.out.println(printAsteriksTriangle(Integer.parseInt(userInput)));
 
     }
 
-    public static String firstAssignment(){
+    public static String printSingleAsterisk(){
         return "*";
     }
 
-    public static String secondAssignment(int num){
+    public static String printAsteriksLine(int num){
 
         String output = "";
         for(int i = 0; i<num; i++){
@@ -42,7 +42,7 @@ public class AsteriskWriter {
         return output;
     }
 
-    public static String thirdAssignment(int num){
+    public static String printAsterisksColumn(int num){
 
         String output = "";
         for(int i = 0; i<num; i++){
@@ -51,7 +51,7 @@ public class AsteriskWriter {
         return output;
     }
 
-    public static String fourthAssignment(int num){
+    public static String printAsteriksTriangle(int num){
 
         String output = "";
         String lines = "";

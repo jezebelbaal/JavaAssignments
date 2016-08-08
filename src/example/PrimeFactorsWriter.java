@@ -17,8 +17,8 @@ public class PrimeFactorsWriter {
 
         String primeList = "";
 
-        for(int i = 1; i<=num; i++){
-           if(isPrime(i)){
+        for(int i = 2; i<=num; i++){
+           if(isPrime(i) && num%i==0){
                primeList = primeList + String.valueOf(i);
                if(i != num){
                    primeList = primeList + "\n";

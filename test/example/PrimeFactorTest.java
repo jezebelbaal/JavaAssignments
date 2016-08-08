@@ -28,7 +28,7 @@ public class PrimeFactorTest {
     public void receivesThirtyAndReturnsPrimeFactors() throws Exception{
 
         PrimeFactorsWriter primeFactor = new PrimeFactorsWriter();
-        assertEquals(primeFactor.generateList(30), "2, 3, 5");
+        assertEquals(primeFactor.generateList(30), "2\n3\n5\n");
     }
 
 }
