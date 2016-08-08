@@ -107,7 +107,7 @@ public class DiamondAssignments {
 
             if(shiftNum==0){
 
-                lines = name + "\n";
+                lines = lines + name + "\n";
 
             }else{
                 lines = lines + shift + stars + shift + "\n";
