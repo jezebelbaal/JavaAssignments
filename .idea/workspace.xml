@@ -8,6 +8,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/example/AssignmentsList.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/example/DiamondAssignments.class" afterPath="" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/src/example/AssignmentsList.java" afterPath="$PROJECT_DIR$/src/example/AsteriskWriter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example/DiamondAssignments.java" afterPath="$PROJECT_DIR$/src/example/DiamondAssignments.java" />
     </list>
     <ignored path="Assignments.iws" />
@@ -74,8 +75,8 @@
       <file leaf-file-name="PrimeFactorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/example/PrimeFactorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="61" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="61" />
+            <state relative-caret-position="342">
+              <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,11 +147,11 @@
         <option value="$PROJECT_DIR$/test/example/FizzBuzzTest.java" />
         <option value="$PROJECT_DIR$/test/example/DiamondAssignmentsTest.java" />
         <option value="$PROJECT_DIR$/test/example/AssignmentsListTest.java" />
-        <option value="$PROJECT_DIR$/test/example/PrimeFactorTest.java" />
         <option value="$PROJECT_DIR$/src/example/PrimeFactorsWriter.java" />
         <option value="$PROJECT_DIR$/src/example/AsteriskWriter.java" />
         <option value="$PROJECT_DIR$/test/example/AsteriskWriterTest.java" />
         <option value="$PROJECT_DIR$/src/example/DiamondAssignments.java" />
+        <option value="$PROJECT_DIR$/test/example/PrimeFactorTest.java" />
       </list>
     </option>
   </component>
@@ -254,6 +255,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TWU_Biblioteca-master" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -677,7 +679,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -792,6 +794,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -837,6 +840,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -872,6 +876,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -971,8 +976,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/example/PrimeFactorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="61" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="61" />
+        <state relative-caret-position="342">
+          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
