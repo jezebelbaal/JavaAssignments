@@ -5,9 +5,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Assignments.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example/FizzBuzzWriter.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example/PrimeFactorsWriter.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/example/AssignmentsList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/example/DiamondAssignments.class" afterPath="" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/src/example/AssignmentsList.java" afterPath="$PROJECT_DIR$/src/example/AsteriskWriter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example/AssignmentsList.class" afterPath="$PROJECT_DIR$/src/example/AssignmentsList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example/DiamondAssignments.class" afterPath="$PROJECT_DIR$/src/example/DiamondAssignments.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example/DiamondAssignments.java" afterPath="$PROJECT_DIR$/src/example/DiamondAssignments.java" />
     </list>
     <ignored path="Assignments.iws" />
@@ -39,44 +39,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AssignmentsList.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/example/AssignmentsList.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AsteriskWriter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/example/AsteriskWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
+            <state relative-caret-position="102">
               <caret line="53" column="46" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AsteriskWriterTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AsteriskWriterTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/example/AsteriskWriterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="-168">
               <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FizzBuzzWriter.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/example/FizzBuzzWriter.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -91,10 +71,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrimeFactorTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PrimeFactorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/example/PrimeFactorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
+            <state relative-caret-position="450">
               <caret line="30" column="61" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -106,7 +86,7 @@
       <file leaf-file-name="DiamondAssignmentsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/example/DiamondAssignmentsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="315">
               <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -118,7 +98,7 @@
       <file leaf-file-name="FizzBuzzTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/example/FizzBuzzTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="225">
               <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -130,8 +110,8 @@
       <file leaf-file-name="DiamondAssignments.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/example/DiamondAssignments.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1755">
-              <caret line="119" column="24" selection-start-line="119" selection-start-column="24" selection-end-line="119" selection-end-column="24" />
+            <state relative-caret-position="60">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -166,11 +146,11 @@
         <option value="$PROJECT_DIR$/test/example/FizzBuzzTest.java" />
         <option value="$PROJECT_DIR$/test/example/DiamondAssignmentsTest.java" />
         <option value="$PROJECT_DIR$/test/example/AssignmentsListTest.java" />
-        <option value="$PROJECT_DIR$/src/example/DiamondAssignments.java" />
         <option value="$PROJECT_DIR$/test/example/PrimeFactorTest.java" />
         <option value="$PROJECT_DIR$/src/example/PrimeFactorsWriter.java" />
         <option value="$PROJECT_DIR$/src/example/AsteriskWriter.java" />
         <option value="$PROJECT_DIR$/test/example/AsteriskWriterTest.java" />
+        <option value="$PROJECT_DIR$/src/example/DiamondAssignments.java" />
       </list>
     </option>
   </component>
@@ -915,33 +895,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/example/FizzBuzzTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/example/DiamondAssignmentsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/example/DiamondAssignments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
-          <caret line="119" column="24" selection-start-line="119" selection-start-column="24" selection-end-line="119" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -951,16 +904,6 @@
         <state relative-caret-position="30">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/example/PrimeFactorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="30" column="61" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -982,16 +925,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/example/AsteriskWriter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
+        <state relative-caret-position="102">
           <caret line="53" column="46" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/example/AsteriskWriterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/example/DiamondAssignments.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/example/DiamondAssignmentsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/example/AsteriskWriterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
           <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/example/FizzBuzzTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/example/PrimeFactorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="61" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

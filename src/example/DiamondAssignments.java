@@ -12,22 +12,22 @@ public class DiamondAssignments {
         System.out.println("Start!");
         System.out.println("\nAssignment one:");
         String userInput = scannerInput.next();
-        System.out.println(firstAssignment(Integer.parseInt(userInput)));
+        System.out.println(drawPyramid(Integer.parseInt(userInput)));
         System.out.println("\nAssignment two:");
         System.out.println("Please, input a number.");
 
 
         userInput = scannerInput.next();
-        System.out.println(secondAssignment(Integer.parseInt(userInput)));
+        System.out.println(drawFullDiamond(Integer.parseInt(userInput)));
 
         System.out.println("\nAssignment three:");
         System.out.println("Please, input a number.");
         userInput = scannerInput.next();
-        System.out.println(thirdAssignment(Integer.parseInt(userInput)));
+        System.out.println(drawNameDiamond(Integer.parseInt(userInput)));
 
     }
 
-    public static String firstAssignment(int num){
+    public static String drawPyramid(int num){
 
         int max = num*2-1;
         int starsNum = 0;
@@ -51,7 +51,7 @@ public class DiamondAssignments {
         return lines;
     }
 
-    public static String secondAssignment(int num){
+    public static String drawFullDiamond(int num){
 
         int max = num*2-1;
         int starsNum = 0;
@@ -87,7 +87,7 @@ public class DiamondAssignments {
         return lines;
     }
 
-    public static String thirdAssignment(int num){
+    public static String drawNameDiamond(int num){
 
      int max = num*2-1;
         int starsNum = 0;
